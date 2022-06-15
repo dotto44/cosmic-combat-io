@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Camera
+  - FuelBar
+  - Feed
+  - NameManager
+  - Board
+  - PlasmaManager
+  - DeathUI
+  - NoPlayerCollision
+  - RoverPlayer
+  - Bullet
+  - VenusianPlayer
+  - Platform
+  - Detector
+  - Boulder
+  - LeaderBoard
+  - KillText
+  - MiniMap
+  - Canvas(2)
+  - JuppernautPlayer
+  - AchievementMonitor
+  - AchievementUpdater
+  - Ping
+  - MoonGround
+  - BackgroundLayer
+  - BackAndFore
+  - Crate
+  - NeptunianPlayer
+  - SpawnPointManager
+  - MovingPlatform
+  - Ice
+  - Icicle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Player
+  - FakePlayer
+  - MapIcons
+  - Platform
+  - Camera2
+  - Detector
+  - Grenade
+  - CameraCollider
+  - Boulder
+  - BackgroundLayer
+  - CratePieces
+  - Ground
+  - Field
+  - Items
+  - Icicle
+  - MapAndNormal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

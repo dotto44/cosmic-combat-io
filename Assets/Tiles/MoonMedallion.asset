@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: MoonMedallion
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: d4163f96e5c104f3eb086d348603c1e4, type: 3}
+  - {fileID: 21300000, guid: 65cf4209137264060adb9069b855301b, type: 3}
+  - {fileID: 21300000, guid: 461ebf173df3f492498245a62c47fe7d, type: 3}
+  - {fileID: 21300000, guid: 74909af62b4e14928b3129adb860b2f7, type: 3}
+  - {fileID: 21300000, guid: 917af92ee3e5b48c9a3a9750a9b64d6b, type: 3}
+  - {fileID: 21300000, guid: 6dd6a32e084b44d01a480fecc9e59abc, type: 3}
+  - {fileID: 21300000, guid: cbf512f690a8e4edebf07eb5267e1f38, type: 3}
+  - {fileID: 21300000, guid: 0a5c6f1652a4e4676990d4cb38ce9f40, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0

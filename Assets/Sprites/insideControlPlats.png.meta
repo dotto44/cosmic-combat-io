@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: c60dd60267689422bb9602eeb206839d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4230415007574069748
+    second: insideControlPlats_0
+  - first:
+      213: 376303592392705262
+    second: insideControlPlats_1
+  - first:
+      213: -428436739701246534
+    second: insideControlPlats_2
+  - first:
+      213: -2736810431663026642
+    second: insideControlPlats_3
+  - first:
+      213: -8645944119423125243
+    second: insideControlPlats_4
+  - first:
+      213: 4984557124393403428
+    second: insideControlPlats_5
+  - first:
+      213: -2166861467594361178
+    second: insideControlPlats_6
+  - first:
+      213: -8049589659109873367
+    second: insideControlPlats_7
+  - first:
+      213: 5793627500890422816
+    second: insideControlPlats_8
+  - first:
+      213: 5440508487611145396
+    second: insideControlPlats_9
+  - first:
+      213: -1022692315827291628
+    second: insideControlPlats_10
+  - first:
+      213: 1260438568367781315
+    second: insideControlPlats_11
+  - first:
+      213: -6600271362340003045
+    second: insideControlPlats_12
+  - first:
+      213: 1693510320614280780
+    second: insideControlPlats_13
+  - first:
+      213: -5112870922923310516
+    second: insideControlPlats_14
+  - first:
+      213: -5885733910019712253
+    second: insideControlPlats_15
+  - first:
+      213: 5288457433348652578
+    second: insideControlPlats_16
+  - first:
+      213: 6358619316552181114
+    second: insideControlPlats_17
+  - first:
+      213: 4868904629587359676
+    second: insideControlPlats_18
+  - first:
+      213: -8603750620779318628
+    second: insideControlPlats_19
+  - first:
+      213: 7680724919988067807
+    second: insideControlPlats_20
+  - first:
+      213: 5024372440948464028
+    second: insideControlPlats_21
+  - first:
+      213: -3908876185742548363
+    second: insideControlPlats_22
+  - first:
+      213: 4410030959535257936
+    second: insideControlPlats_23
+  - first:
+      213: -6405855685794552375
+    second: insideControlPlats_24
+  - first:
+      213: 8161428622405084826
+    second: insideControlPlats_25
+  - first:
+      213: 5372280539192189048
+    second: insideControlPlats_26
+  - first:
+      213: -9188684210468215400
+    second: insideControlPlats_27
+  - first:
+      213: 614951980431139014
+    second: insideControlPlats_28
+  - first:
+      213: -2222431225330728874
+    second: insideControlPlats_29
+  - first:
+      213: 8639236462020952039
+    second: insideControlPlats_30
+  - first:
+      213: -4002373028651880755
+    second: insideControlPlats_31
+  - first:
+      213: 6199720463005670413
+    second: insideControlPlats_32
+  - first:
+      213: 2179001265228228454
+    second: insideControlPlats_33
+  - first:
+      213: 233902293916196550
+    second: insideControlPlats_34
+  - first:
+      213: -4586631743516398914
+    second: insideControlPlats_35
+  - first:
+      213: 5407173341322505246
+    second: insideControlPlats_36
+  - first:
+      213: 7212556642391786646
+    second: insideControlPlats_37
+  - first:
+      213: 7063435480401929383
+    second: insideControlPlats_38
+  - first:
+      213: 8904919856344190729
+    second: insideControlPlats_39
+  - first:
+      213: 8091741780809754966
+    second: insideControlPlats_40
+  - first:
+      213: -6514507442769106948
+    second: insideControlPlats_41
+  - first:
+      213: 8083044664320403206
+    second: insideControlPlats_42
+  - first:
+      213: -6900207906017393029
+    second: insideControlPlats_43
+  - first:
+      213: -8711905047710938725
+    second: insideControlPlats_44
+  - first:
+      213: -4822033286157179232
+    second: insideControlPlats_45
+  - first:
+      213: -504079732444746402
+    second: insideControlPlats_46
+  - first:
+      213: -7440702271735058074
+    second: insideControlPlats_47
+  - first:
+      213: -4553412288974006046
+    second: insideControlPlats_48
+  - first:
+      213: 4019392008492170337
+    second: insideControlPlats_49
+  - first:
+      213: 8575620438771871278
+    second: insideControlPlats_50
+  - first:
+      213: -4109274579711701614
+    second: insideControlPlats_51
+  - first:
+      213: -8868878926696646231
+    second: insideControlPlats_52
+  - first:
+      213: 7977825768194242114
+    second: insideControlPlats_53
+  - first:
+      213: -1166713326033645720
+    second: insideControlPlats_54
+  - first:
+      213: -1830698995628337491
+    second: insideControlPlats_55
+  - first:
+      213: -3841236073488957745
+    second: insideControlPlats_56
+  - first:
+      213: 3324813397441421075
+    second: insideControlPlats_57
+  - first:
+      213: -6731528009011048532
+    second: insideControlPlats_58
+  - first:
+      213: 4178599089405772207
+    second: insideControlPlats_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: insideControlPlats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -96}
+        - {x: 96, y: -95.64835}
+        - {x: 96, y: 0}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee01dd6fb8a45c0800000000000000
+      internalID: -4230415007574069748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 0}
+        - {x: -96, y: -95.64835}
+        - {x: 96, y: -95.64835}
+        - {x: 96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44540af16e83500800000000000000
+      internalID: 376303592392705262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 96}
+        - {x: 9, y: 47}
+        - {x: 96, y: 46}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab571612e03ed0af0800000000000000
+      internalID: -428436739701246534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 46.417583}
+        - {x: 96, y: 46.417583}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4423a965e40ad0800000000000000
+      internalID: -2736810431663026642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 46.417583}
+        - {x: 95.10941, y: 46.417583}
+        - {x: 96, y: 47.824177}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50938eda1af630880800000000000000
+      internalID: -8645944119423125243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: -56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4248c1a9b44bc2540800000000000000
+      internalID: 4984557124393403428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 17}
+        - {x: -96, y: -56}
+        - {x: -96, y: -96}
+        - {x: -57, y: -96}
+        - {x: 8, y: -24}
+        - {x: 96, y: 20}
+        - {x: 96, y: 66}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67e8ac9f2cde1e0800000000000000
+      internalID: -2166861467594361178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: 96}
+        - {x: -96, y: 66}
+        - {x: -96, y: 20}
+        - {x: -6, y: 43}
+        - {x: 96, y: 48}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92929158adc1a4090800000000000000
+      internalID: -8049589659109873367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 47}
+        - {x: 96, y: 48}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef18f1489176050800000000000000
+      internalID: 5793627500890422816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 48}
+        - {x: 96, y: 48}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc5f89f4a1908b40800000000000000
+      internalID: 5440508487611145396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 48}
+        - {x: 96, y: 48}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab798d1caaec1f0800000000000000
+      internalID: -1022692315827291628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_11
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 48}
+        - {x: 96, y: 48}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c573c8233afd7110800000000000000
+      internalID: 1260438568367781315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_12
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 48}
+        - {x: 96, y: 48}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136a8a6a202764a0800000000000000
+      internalID: -6600271362340003045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_13
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 48}
+        - {x: 14, y: 42}
+        - {x: 96, y: 18}
+        - {x: 96, y: 67}
+        - {x: -17, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e0cabf9ae808710800000000000000
+      internalID: 1693510320614280780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_14
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 26}
+        - {x: -96, y: 67}
+        - {x: -96, y: 18}
+        - {x: -13, y: -21}
+        - {x: 56, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: -45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c428bb81cfe6b09b0800000000000000
+      internalID: -5112870922923310516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bddca513ca15ea0800000000000000
+      internalID: -5885733910019712253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: 33, y: 40}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e35842400646940800000000000000
+      internalID: 5288457433348652578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 0}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75a709349a5e3850800000000000000
+      internalID: 6358619316552181114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 0}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb73fcbc6f2d19340800000000000000
+      internalID: 4868904629587359676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17.390585, y: 49.934067}
+        - {x: 45, y: -46}
+        - {x: 96, y: -46}
+        - {x: 96, y: 49.934067}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f6602566599880800000000000000
+      internalID: -8603750620779318628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 48}
+        - {x: 96, y: 48}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd1169de9a679a60800000000000000
+      internalID: 7680724919988067807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_21
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 48}
+        - {x: -56, y: 48}
+        - {x: -56, y: 96}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c99def16d182ab540800000000000000
+      internalID: 5024372440948464028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -8}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e4d5b1d1e0c9c0800000000000000
+      internalID: -3908876185742548363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f297dac3933d30800000000000000
+      internalID: 4410030959535257936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_24
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5acc58134d917a0800000000000000
+      internalID: -6405855685794552375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96292a4718334170800000000000000
+      internalID: 8161428622405084826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_26
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8706b44dfac2e8a40800000000000000
+      internalID: 5372280539192189048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_27
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8952dc1f46c3b7080800000000000000
+      internalID: -9188684210468215400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_28
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -32}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0658b619fb88800800000000000000
+      internalID: 614951980431139014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_29
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6500d6453965821e0800000000000000
+      internalID: -2222431225330728874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef7c512acbb4e770800000000000000
+      internalID: 8639236462020952039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 72}
+        - {x: 40, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea9989fe6b478c0800000000000000
+      internalID: -4002373028651880755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 49}
+        - {x: -96, y: 49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5c20e9e4d90650800000000000000
+      internalID: 6199720463005670413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 48}
+        - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672e0b1b1e5d3e10800000000000000
+      internalID: 2179001265228228454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -42, y: 96}
+        - {x: 96, y: 68}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce1605a5ecfe3300800000000000000
+      internalID: 233902293916196550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: 68}
+        - {x: 8, y: 20}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaac24fab20950c0800000000000000
+      internalID: -4586631743516398914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 0}
+        - {x: -96, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6d7861832a0b40800000000000000
+      internalID: 5407173341322505246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -80, y: 96}
+        - {x: 28, y: 24}
+        - {x: 96, y: 24}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69485207d06281460800000000000000
+      internalID: 7212556642391786646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 77, y: 96}
+        - {x: -96, y: 96}
+        - {x: -96, y: 24}
+        - {x: -27, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a46f3f452d560260800000000000000
+      internalID: 7063435480401929383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_39
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: -72}
+        - {x: -7, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc7b6dd61a49b70800000000000000
+      internalID: 8904919856344190729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_40
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -72}
+        - {x: -96, y: -96}
+        - {x: 8, y: -96}
+        - {x: -20, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592a5b1744ab4070800000000000000
+      internalID: 8091741780809754966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_41
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57, y: -96}
+        - {x: -54, y: 96}
+        - {x: -96, y: 96}
+        - {x: -96, y: -96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7eb130ff1d795a0800000000000000
+      internalID: -6514507442769106948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_42
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6072f60eb4ebc2070800000000000000
+      internalID: 8083044664320403206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_43
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76cd75e7798d30a0800000000000000
+      internalID: -6900207906017393029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_44
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99c14a4488191780800000000000000
+      internalID: -8711905047710938725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6ed734642b41db0800000000000000
+      internalID: -4822033286157179232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 96, y: 96}
+        - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: -52.68749, y: -96}
+        - {x: -53, y: -26}
+        - {x: 96, y: 72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d282177262109f0800000000000000
+      internalID: -504079732444746402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -32}
+        - {x: -96, y: -96}
+        - {x: -45.609352, y: -96}
+        - {x: -45.609352, y: -33.054947}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613ac5d4b05db890800000000000000
+      internalID: -7440702271735058074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: -45.56249, y: -96}
+        - {x: -45.56249, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85ecfe5a70fc0c0800000000000000
+      internalID: -4553412288974006046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 3.5164835}
+        - {x: 58, y: 4}
+        - {x: -62, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c383f6cbfb7c730800000000000000
+      internalID: 4019392008492170337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 56, y: 96}
+        - {x: 56, y: -70}
+        - {x: 24, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea39d7a59b20770800000000000000
+      internalID: 8575620438771871278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_51
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 56, y: 96}
+        - {x: 56, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dcdb7aa8ce8f6c0800000000000000
+      internalID: -4109274579711701614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_52
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 48}
+        - {x: -96, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97c420b996be480800000000000000
+      internalID: -8868878926696646231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 48}
+        - {x: -96, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246fc21944ee6be60800000000000000
+      internalID: 7977825768194242114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_54
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -67, y: 48}
+        - {x: -96, y: 48}
+        - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 96}
+        - {x: -7, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fcc0759600fcfe0800000000000000
+      internalID: -1166713326033645720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70, y: 48}
+        - {x: 8, y: 96}
+        - {x: -96, y: 96}
+        - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da698e286fc0896e0800000000000000
+      internalID: -1830698995628337491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_56
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 48}
+        - {x: -96, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce3645942031bac0800000000000000
+      internalID: -3841236073488957745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_57
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -48}
+        - {x: 96, y: -48}
+        - {x: 96, y: 48}
+        - {x: -96, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f94fa5b2c142e20800000000000000
+      internalID: 3324813397441421075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_58
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: -48}
+        - {x: -16, y: -48}
+        - {x: 96, y: -20}
+        - {x: 96, y: 48}
+        - {x: -96, y: 48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafcd43e0fec492a0800000000000000
+      internalID: -6731528009011048532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insideControlPlats_59
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 96}
+        - {x: -50, y: 48}
+        - {x: -96, y: 48}
+        - {x: -96, y: -20}
+        - {x: 16, y: 32}
+        - {x: 80, y: 96}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14dce8bbd5df930800000000000000
+      internalID: 4178599089405772207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: BeepBoopLeftCorner
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 70a1a13bd925046e3bffef95f72d49f8, type: 3}
+  - {fileID: 21300000, guid: d17a0734e2e2f4fc3ac30ac9941c0673, type: 3}
+  - {fileID: 21300000, guid: a2f560243267e4653986d977a1352517, type: 3}
+  - {fileID: 21300000, guid: 59f07c0abe6e647e396097d0a76058d5, type: 3}
+  m_MinSpeed: 7
+  m_MaxSpeed: 7
+  m_AnimationStartTime: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 405ba0541521d4f0eaaf0a877054ff45
+  - enabled: 1
+    path: Assets/Scenes/Geometric.unity
+    guid: e6bd27a79cd5341f1a53e40544dd7244
+  - enabled: 0
+    path: Assets/Scenes/HordeBasic.unity
+    guid: 61b8a166f2691473893c9c81886ede93
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 90465a1a414e4452697d357ec83f9732
+  - enabled: 0
+    path: Assets/Scenes/ExampleLevel.unity
+    guid: 2fcf8cfc6df4c43b8a40244093fa3eec
+  - enabled: 1
+    path: Assets/Scenes/LostLab.unity
+    guid: c21a8c1da5bab4999b60809ba1409a2d
+  - enabled: 0
+    path: Assets/Scenes/IcicleCaverns.unity
+    guid: d786a9ec776be47f982209a0678d4cfa
+  m_configObjects: {}

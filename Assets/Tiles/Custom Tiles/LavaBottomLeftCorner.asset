@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc61fd18e227146748e4f9f34908afe2, type: 3}
+  m_Name: LavaBottomLeftCorner
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -5146536971482810377, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: -5913731751855751624, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: -8414816243505854783, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: 6193756077798706055, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: -4304941764180583599, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: 8496837417168939662, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: 8930444691738115479, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: 4671889613099735643, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: -6072392114745592376, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  - {fileID: -4311688615317302381, guid: 378233a7bd7d447c789736ed22cee280, type: 3}
+  m_MinSpeed: 9
+  m_MaxSpeed: 9
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

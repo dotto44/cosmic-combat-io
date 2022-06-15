@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc61fd18e227146748e4f9f34908afe2, type: 3}
+  m_Name: LavaTopRightCorner
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 3165858171754711177, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: 8112021659134123671, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: -1234829120940112556, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: 5742582008365359504, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: -2455584968892866864, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: -2336164306700054166, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: 1387442285129059895, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: 3340299957090995712, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: 1678923901956106294, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  - {fileID: -7374122332240552900, guid: 4542ac9c2fa9a4aa490d15b9fcc74e7d, type: 3}
+  m_MinSpeed: 9
+  m_MaxSpeed: 9
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
